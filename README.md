@@ -1,7 +1,7 @@
 
 
 - 🔭 Aspirante a programadora
-- 🌱 Estudando Python e Cibersegurança
+- 🌱 Estudando programação e Cibersegurança
 - 👩🏽‍💻 Ela/dela
 
 <div align="center">
