@@ -1,7 +1,7 @@
 ### Hello, world. Jess here 👽
 
 - 🔭 Never stop learning
-- 🌱 Estudando Desenvolvimento Mobile e Cibersegurança
+- 🌱 Estudando Desenvolvimento Mobile e Web
 - 👩🏽‍💻 Ela/dela
 
   ##
