@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jessica</h1>
+<h1 align="center">Hi, I'm Jessica</h1>
 
   
 - 🌱 I’m currently learning **JavaScript, TypeScript React and React Native**
