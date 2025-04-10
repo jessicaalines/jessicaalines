@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Jessica</h1>
 
   
-- 🌱 I’m currently learning **AI and Machine Learning**
+- 🌱 I’m currently learning **AI and Cloud Computing**
 
-- 💬 Ask me about **AI**
+- 💬 Ask me about **Cloud Computing**
 
 
 ---
