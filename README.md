@@ -1,4 +1,5 @@
-# 💫 About Me:
+<img src="banner_github.png" alt="GitHub Banner" width="100%" />
+
 🔭 I'm currently working on Cloud Infrastructure<br>🌱 I'm currently learning Azure<br>☁️ Ask me about AI and Cloud Computing
 
 
