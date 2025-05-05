@@ -1,4 +1,4 @@
-<img src="banner_github.png" alt="GitHub Banner" style="display: block; margin: 0 auto 10px 0;" width="100%" />
+<img src="banner_github.png" style="margin-top: -30px; margin-bottom: 10px;" width="100%" />
 
 🔭 I'm currently working on Cloud Infrastructure<br>🌱 I'm currently learning Azure<br>☁️ Ask me about AI and Cloud Computing
 
