@@ -1,5 +1,4 @@
-🔭 I'm currently working on Cloud Infrastructure<br>🌱 I'm currently learning Azure<br>☁️ Ask me about AI and Cloud Computing
-
+🔭 Sistemas de Telecomunicações - UTFPR<br>🌱 Estudando Redes, Cibersegurança e Python<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jessica-aline-soares-oliveira/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@jess.alineoliveira) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jess.alineoliveira@gmail.com) 
